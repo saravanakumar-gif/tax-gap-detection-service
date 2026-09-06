@@ -7,7 +7,7 @@ Backend service for uploading financial transactions, validating transaction dat
 Add the submitted repository URL here:
 
 ```text
-https://github.com/<your-user>/<your-repository>
+https://github.com/saravanakumar-gif/tax-gap-detection-service.git
 ```
 
 ## Technology Stack
@@ -323,6 +323,8 @@ target/site/jacoco/index.html
 ```
 
 Use this HTML report, or the IDE coverage view, for the required coverage screenshot.
+<img width="1920" height="759" alt="Screenshot (296)" src="https://github.com/user-attachments/assets/4829d3bf-2f63-4ce8-a6f4-f307c157c4c0" />
+
 
 ## Design And Architecture
 
